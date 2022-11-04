@@ -1,2 +1,6 @@
 # LeNet_CNN
-  convolutional neural network using dataset Fashion MNIST
+  LeNet5 convolutional neural network implementation
+
+  FashionMNIST classification using LeNet-5 architecture
+
+  
